@@ -1,0 +1,7 @@
+﻿  stdafx.cpp
+  dllmain.cpp
+c:\users\jackh\desktop\junk\gmod\cheat\gmodcheat\gmodcheat\dllmain.cpp(32): warning C4312: 'type cast': conversion from 'LONG' to 'int (__cdecl *)(lua_State *,int,int,int)' of greater size
+  GmodCheat.cpp
+  Generating Code...
+dllmain.obj : error LNK2019: unresolved external symbol DetourAttach referenced in function DllMain
+C:\Users\jackh\Desktop\junk\GMOD\cheat\GmodCheat\x64\Debug\GmodCheat.dll : fatal error LNK1120: 1 unresolved externals

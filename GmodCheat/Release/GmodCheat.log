@@ -1,0 +1,7 @@
+﻿  dllmain.cpp
+  Generating code
+  All 13 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+detours.lib(detours.obj) : error LNK2026: module unsafe for SAFESEH image.
+detours.lib(disasm.obj) : error LNK2026: module unsafe for SAFESEH image.
+C:\Users\jackh\Desktop\junk\GMOD\cheat\GmodCheat\Release\GmodCheat.dll : fatal error LNK1281: Unable to generate SAFESEH image.
