@@ -4,10 +4,11 @@
 #include <iostream>
 #include "util.h"
 #include "vmthook.h"
-#include "GarrysMod/Lua/LuaBase.h"
+#include "LuaBase.h"
 #include "common.h"
 #include <string>
 #include <fstream>
+
 
 #pragma warning (disable : 4996)
 

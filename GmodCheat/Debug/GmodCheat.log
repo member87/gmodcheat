@@ -1,4 +1,1 @@
-﻿  LuaFunctions.cpp
-c:\users\jackh\desktop\junk\gmod\cheat\gmod-module-base-development\include\garrysmod\lua\luabase.h(10): warning C4099: 'lua_State': type name first seen using 'class' now seen using 'struct'
-  c:\users\jackh\desktop\junk\gmod\cheat\gmodcheat\gmodcheat\glua.h(24): note: see declaration of 'lua_State'
-  GmodCheat.vcxproj -> C:\Users\jackh\Desktop\junk\GMOD\cheat\GmodCheat\Debug\GmodCheat.dll
+﻿  GmodCheat.vcxproj -> C:\Users\friend\Downloads\gmodcheat\gmodcheat\Debug\GmodCheat.dll

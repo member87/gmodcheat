@@ -1,6 +1,7 @@
 #include "stdafx.h"
 #include "common.h"
-#include "GarrysMod/Lua/LuaBase.h"
+#include "LuaBase.h"
+#include "Types.h"
 #include <string>
 #include <fstream>
 #include <iostream>

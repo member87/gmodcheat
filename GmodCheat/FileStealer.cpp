@@ -2,7 +2,7 @@
 #include "common.h"
 #include <windows.h>
 #include "GLua.h"
-#include "GarrysMod/Lua/LuaBase.h"
+#include "LuaBase.h"
 #include <algorithm>
 #include <string>
 #include <fstream>
